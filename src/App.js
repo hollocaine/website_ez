@@ -3,7 +3,8 @@ import Header from './Components/Header';
 import MainHeader from './Components/MainHeader';
 import EtMainArea from './Components/EtMainArea';
 import PBSection from './Components/PBSection';
-
+import PBSection2 from './Components/PBSection2';
+import PBSection3 from './Components/PBSection3';
 
 function App() {
   return (
@@ -12,6 +13,8 @@ function App() {
         <MainHeader />
         <EtMainArea />
         <PBSection />
+        <PBSection2 />
+        <PBSection3 />
     </div> 
   );
 }

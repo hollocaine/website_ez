@@ -11,7 +11,7 @@
     "react-dom": "^16.8.6",
     "react-dropdown": "^1.6.4",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "react-widgets": "^4.4.10",
     "semantic-ui-react": "^0.86.0",
     "yarn": "^1.15.2"
